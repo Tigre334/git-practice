@@ -3,3 +3,4 @@
 change local repo.
 change on rebase-practice branch.
 for rebase conflict
+for pull --rebase
