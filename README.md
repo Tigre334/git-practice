@@ -4,4 +4,4 @@ change local repo.
 change on rebase-practice branch.
 for rebase conflict
 for pull --rebase
-stash practice(track済み)
+stash practice(3rd change)
